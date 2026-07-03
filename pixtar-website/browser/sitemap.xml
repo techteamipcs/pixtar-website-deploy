@@ -27,7 +27,7 @@
 </url>
 
 <url>
-    <loc>https://www.pixtar.ae/projects/</loc>
+    <loc>https://www.pixtar.ae/projects</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -41,7 +41,7 @@
 </url>
 
 <url>
-    <loc>https://www.pixtar.ae/about/</loc>
+    <loc>https://www.pixtar.ae/about</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -49,28 +49,28 @@
 
 <!-- Service Pages -->
 <url>
-    <loc>https://www.pixtar.ae/services/branding/</loc>
+    <loc>https://www.pixtar.ae/services/branding</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
 </url>
 
 <url>
-    <loc>https://www.pixtar.ae/services/ecommerce-web-development/</loc>
+    <loc>https://www.pixtar.ae/services/ecommerce-web-development</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
 </url>
 
 <url>
-    <loc>https://www.pixtar.ae/services/graphics/</loc>
+    <loc>https://www.pixtar.ae/services/graphics</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
 </url>
 
 <url>
-    <loc>https://www.pixtar.ae/services/website-development/</loc>
+    <loc>https://www.pixtar.ae/services/website-development</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
@@ -78,14 +78,14 @@
 
 <!-- Legal Pages -->
 <url>
-    <loc>https://www.pixtar.ae/privacy-policy/</loc>
+    <loc>https://www.pixtar.ae/privacy-policy</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
 </url>
 
 <url>
-    <loc>https://www.pixtar.ae/terms-and-conditions/</loc>
+    <loc>https://www.pixtar.ae/terms-and-conditions</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>

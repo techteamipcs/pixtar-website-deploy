@@ -2,4 +2,8 @@ User-agent: *
 Allow: /
 Disallow: /cgi-bin/
 Disallow: /admin/
+Disallow: /feed/
+Disallow: /tag/
+Disallow: /search
+Disallow: /*.vcf$
 Sitemap: https://www.pixtar.ae/sitemap.xml

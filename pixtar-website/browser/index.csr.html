@@ -233,32 +233,36 @@
 	</style>
 	<!-- Google Tag Manager -->
 	<script>
-  window.addEventListener('load', function () {
-    setTimeout(function () {
+		window.addEventListener('load', function () {
+			setTimeout(function () {
+				// SKIP TRACKING ON LOCAL DEVELOPMENT
+				if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+					return; // Stops execution if on localhost
+				}
 
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
+				(function (w, d, s, l, i) {
+					w[l] = w[l] || [];
 
-        w[l].push({
-          'gtm.start': new Date().getTime(),
-          event: 'gtm.js'
-        });
+					w[l].push({
+						'gtm.start': new Date().getTime(),
+						event: 'gtm.js'
+					});
 
-        var f = d.getElementsByTagName(s)[0];
-        var j = d.createElement(s);
-        var dl = l != 'dataLayer' ? '&l=' + l : '';
+					var f = d.getElementsByTagName(s)[0];
+					var j = d.createElement(s);
+					var dl = l != 'dataLayer' ? '&l=' + l : '';
 
-        j.async = true;
-        j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+					j.async = true;
+					j.src =
+						'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
 
-        f.parentNode.insertBefore(j, f);
+					f.parentNode.insertBefore(j, f);
 
-      })(window, document, 'script', 'dataLayer', 'GTM-KKRMXMC6');
+				})(window, document, 'script', 'dataLayer', 'GTM-KKRMXMC6');
 
-    }, 3000);
-  });
-</script>
+			}, 3000);
+		});
+	</script>
 	<!-- End Google Tag Manager -->
 <style>@font-face{font-family:lufga-light;src:url(/fonts/lufgaLight.woff2) format("woff2");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:lufga-regular;src:url(/fonts/lufgaRegular.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:lufga-medium;src:url(/fonts/lufgaMedium.woff2) format("woff2");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:lufga-semibold;src:url(/fonts/lufgaSemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:lufga-bold;src:url(/fonts/lufgaBold.woff2) format("woff2");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extralight.ttf) format("truetype");font-weight:200;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-light.ttf) format("truetype");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-regular.ttf) format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-medium.ttf) format("truetype");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-bold.ttf) format("truetype");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extrabold.ttf) format("truetype");font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-black.ttf) format("truetype");font-weight:900;font-style:normal;font-display:swap}:root{--app-font-body:lufga-regular, sans-serif;--app-font-light:Montserrat, sans-serif;--app-font-medium:Montserrat, sans-serif;--app-font-semibold:Montserrat, sans-serif;--app-font-bold:Montserrat, sans-serif;--app-font-banner-arabic:Tajawal, sans-serif;--app-font-arabic:Beiruti, sans-serif;--app-font-regular:Montserrat, sans-serif;--app-font-lufgalight:lufga-light, sans-serif;--app-font-lufgaregular:lufga-regular, sans-serif;--app-font-lufgamedium:lufga-medium, sans-serif;--app-font-lufgasemibold:lufga-semibold, sans-serif;--app-font-lufgabold:lufga-bold, sans-serif}body{overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-tap-highlight-color:transparent;scroll-behavior:smooth;text-rendering:optimizeSpeed;font-family:var(--app-font-body);font-size:16px}html,body{overflow-y:auto}html{overflow-y:scroll}body{margin:0}</style><link rel="stylesheet" href="styles-QGXWO36J.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-QGXWO36J.css"></noscript></head>
 

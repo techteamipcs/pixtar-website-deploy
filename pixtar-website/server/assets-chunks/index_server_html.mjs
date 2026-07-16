@@ -234,32 +234,36 @@ export default `<!doctype html>
 	</style>
 	<!-- Google Tag Manager -->
 	<script>
-  window.addEventListener('load', function () {
-    setTimeout(function () {
+		window.addEventListener('load', function () {
+			setTimeout(function () {
+				// SKIP TRACKING ON LOCAL DEVELOPMENT
+				if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+					return; // Stops execution if on localhost
+				}
 
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
+				(function (w, d, s, l, i) {
+					w[l] = w[l] || [];
 
-        w[l].push({
-          'gtm.start': new Date().getTime(),
-          event: 'gtm.js'
-        });
+					w[l].push({
+						'gtm.start': new Date().getTime(),
+						event: 'gtm.js'
+					});
 
-        var f = d.getElementsByTagName(s)[0];
-        var j = d.createElement(s);
-        var dl = l != 'dataLayer' ? '&l=' + l : '';
+					var f = d.getElementsByTagName(s)[0];
+					var j = d.createElement(s);
+					var dl = l != 'dataLayer' ? '&l=' + l : '';
 
-        j.async = true;
-        j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+					j.async = true;
+					j.src =
+						'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
 
-        f.parentNode.insertBefore(j, f);
+					f.parentNode.insertBefore(j, f);
 
-      })(window, document, 'script', 'dataLayer', 'GTM-KKRMXMC6');
+				})(window, document, 'script', 'dataLayer', 'GTM-KKRMXMC6');
 
-    }, 3000);
-  });
-</script>
+			}, 3000);
+		});
+	</script>
 	<!-- End Google Tag Manager -->
 <link rel="stylesheet" href="styles-QGXWO36J.css"></head>
 
@@ -441,4 +445,5 @@ export default `<!doctype html>
 	<app-root></app-root>
 <link rel="modulepreload" href="chunk-R65OYMUD.js"><link rel="modulepreload" href="chunk-GYPAVGKQ.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-MF43QLAB.js"><link rel="modulepreload" href="chunk-ESFAUWSY.js"><link rel="modulepreload" href="chunk-TXLMYR4V.js"><link rel="modulepreload" href="chunk-PPRZ6DKZ.js"><link rel="modulepreload" href="chunk-ED3LKO6M.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-XLQM4CQM.js" type="module"></script></body>
 
-</html>`;
+</html>
+`;

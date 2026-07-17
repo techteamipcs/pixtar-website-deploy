@@ -276,173 +276,228 @@
 		</iframe>
 	</noscript>
 	<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "ProfessionalService",
- "name": "Pixtar Design Agency",
- "image": "https://www.pixtar.ae/images/logo/pixtar-main-logo.webp",
- "url": "https://www.pixtar.ae/",
- "telephone": "+971527930781",
- "email": "kbn@pixtar.ae",
- "priceRange": "$$",
- "address": {
-   "@type": "PostalAddress",
-   "streetAddress": "Espada Business Center, Rasis Business Centre - 501, 5th Floor Al Barsha - Al Barsha 1 - Dubai",
-   "addressLocality": "Dubai",
-   "addressRegion": "Dubai",
-   "postalCode": "00000",
-   "addressCountry": "AE"
- },
- "geo": {
-   "@type": "GeoCoordinates",
-   "latitude": "25.125833",
-   "longitude": "55.208333"
- },
- "openingHoursSpecification": [
-   {
-     "@type": "OpeningHoursSpecification",
-     "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-     "opens": "09:00",
-     "closes": "18:00"
-   }
- ],
- "areaServed": [
-   "Dubai",
-   "Abu Dhabi",
-   "Sharjah",
-   "United Arab Emirates",
-   "Saudi Arabia",
-   "Middle East"
- ],
- "sameAs": [
-   "https://www.linkedin.com/company/pixtar-ae/",
-   "https://www.instagram.com/pixtar.ae/"
- ]
-}
-</script>
-	<script defer="" type="application/ld+json">
-			{
-				"@context": "https://schema.org/",
-				"@type": "BreadcrumbList",
-				"itemListElement": [
-					{
-						"@type": "ListItem",
-						"position": 1,
-						"name": "Home",
-						"item": "https://www.pixtar.ae"
-					},
-					{
-						"@type": "ListItem",
-						"position": 2,
-						"name": "Services",
-						"item": "https://www.pixtar.ae/services"
-					},
-					{
-						"@type": "ListItem",
-						"position": 3,
-						"name": "Blogs",
-						"item": "https://www.pixtar.ae/blog"
-					},
-					{
-						"@type": "ListItem",
-						"position": 4,
-						"name": "Contact",
-						"item": "https://www.pixtar.ae/contact"
-					}
-				]
-			}
-		</script>
-	<script type="application/ld+json">
-			{
-				"@context": "https://schema.org",
-				"@type": "Organization",
-				"name": "Pixtar",
-				"url": "https://www.pixtar.ae/",
-				"logo": "https://www.pixtar.ae/images/logo/pixtar-main-logo.webp",
-				"description": "Pixtar is a Brand Design and Web Development Agency in Dubai, specializing in branding, graphic design, website development, and eCommerce solutions.",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "Espada Business Center, Rasis Business Centre - 501, 5th Floor Al Barsha - Al Barsha 1 - Dubai",
-					"addressLocality": "Dubai",
-					"addressCountry": "AE"
-				},
-				"contactPoint": {
-					"@type": "ContactPoint",
-					"telephone": "+971527930781",
-					"contactType": "sales",
-					"email": "kbn@pixtar.ae"
-				},
-				"sameAs": [
-					"https://www.linkedin.com/company/pixtar-ae/",
-					"https://www.instagram.com/pixtar.ae/"
-				],
-				"makesOffer": [
-					{
-						"@type": "Offer",
-						"itemOffered": {
-							"@type": "Service",
-							"name": "Branding",
-							"description": "Pixtar offers branding, logo design, corporate rebranding, and custom branding services in Dubai.",
-							"provider": {
-								"@type": "Organization",
-								"name": "Pixtar"
-							}
-						}
-					},
-					{
-						"@type": "Offer",
-						"itemOffered": {
-							"@type": "Service",
-							"name": "Website Development",
-							"description": "Web design and web development services for premium brands in Dubai.",
-							"provider": {
-								"@type": "Organization",
-								"name": "Pixtar"
-							}
-						}
-					},
-					{
-						"@type": "Offer",
-						"itemOffered": {
-							"@type": "Service",
-							"name": "Graphic Design",
-							"description": "With Pixtar's subscription, you get unlimited, high-quality graphic design—crafted from scratch, no templates, no limits.",
-							"provider": {
-								"@type": "Organization",
-								"name": "Pixtar"
-							}
-						}
-					},
-					{
-						"@type": "Offer",
-						"itemOffered": {
-							"@type": "Service",
-							"name": "eCommerce Web Development",
-							"description": "Whether it's Magento, Shopify, or Node.js, Pixtar creates custom eCommerce platforms that perform, scale, and grow with you.",
-							"provider": {
-								"@type": "Organization",
-								"name": "Pixtar"
-							}
-						}
-					}
-				]
-			}
-		</script>
-
-	<script type="application/ld+json">
 		{
-			"@context": "https://schema.org/",
-			"@type": "WebSite",
-			"name": "Pixtar",
-			"url": "https://www.pixtar.ae/",
-			"potentialAction": {
-			"@type": "SearchAction",
-			"target": "http://pixtar.ae/services{search_term_string}",
-			"query-input": "required name=search_term_string"
-			}
-		}
-</script>
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.pixtar.ae/#organization",
+      "name": "Pixtar",
+      "legalName": "Pixtar Branding Services LLC",
+      "url": "https://www.pixtar.ae/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.pixtar.ae/#logo",
+        "url": "https://www.pixtar.ae/favicon/pixtar1200x630.png",
+        "contentUrl": "https://www.pixtar.ae/favicon/pixtar1200x630.png",
+        "width": 1200,
+        "height": 630,
+        "caption": "Pixtar Branding Services LLC Logo"
+      },
+      "image": {
+        "@id": "https://www.pixtar.ae/#logo"
+      },
+      "email": "hey@pixtar.ae",
+      "telephone": "+971527930781",
+      "foundingDate": "2022",
+      "description": "Pixtar is a premium branding, design and web development agency in Dubai helping businesses build memorable brands, high-performing websites and ecommerce experiences.",
+      "sameAs": [
+        "https://www.instagram.com/pixtar.ae/",
+        "https://www.facebook.com/pixtar.ae/",
+        "https://www.linkedin.com/company/pixtar-ae/"
+      ],
+      "knowsAbout": [
+        "Brand Strategy",
+        "Brand Identity",
+        "Branding",
+        "Rebranding",
+        "Logo Design",
+        "Graphic Design",
+        "Packaging Design",
+        "Website Design",
+        "Website Development",
+        "Ecommerce Development",
+        "UI UX Design",
+        "Mobile App Design",
+        "Enterprise Web Applications",
+        "SEO"
+      ],
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Saudi Arabia"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.pixtar.ae/#services"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+971527930781",
+        "email": "hey@pixtar.ae",
+        "contactType": "Sales",
+        "availableLanguage": [
+          "English"
+        ],
+        "areaServed": "AE"
+      }
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://www.pixtar.ae/#business",
+      "name": "Pixtar Branding Services LLC",
+      "url": "https://www.pixtar.ae/",
+      "parentOrganization": {
+        "@id": "https://www.pixtar.ae/#organization"
+      },
+      "image": {
+        "@id": "https://www.pixtar.ae/#logo"
+      },
+      "telephone": "+971527930781",
+      "email": "hey@pixtar.ae",
+      "priceRange": "$$",
+      "serviceType": [
+        "Branding",
+        "Graphic Design",
+        "Website Development",
+        "Ecommerce Development",
+        "Web Applications"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Espada Business Center, Rasis Business Centre, 501, 5th Floor",
+        "addressLocality": "Al Barsha 1",
+        "addressRegion": "Dubai",
+        "addressCountry": "AE"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.10722,
+        "longitude": 55.19846
+      },
+      "hasMap": "https://www.google.com/maps/search/Pixtar%20Branding%20Services%20LLC/@25.1072940826416,55.1984977722168,17z?hl=en",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.pixtar.ae/#website",
+      "url": "https://www.pixtar.ae/",
+      "name": "Pixtar",
+      "publisher": {
+        "@id": "https://www.pixtar.ae/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.pixtar.ae/#webpage",
+      "url": "https://www.pixtar.ae/",
+      "name": "Branding Agency in Dubai | Web & Ecommerce | Pixtar",
+      "description": "Pixtar is a Dubai branding agency providing branding, website design, web development, ecommerce development, UI/UX design and digital experiences.",
+      "isPartOf": {
+        "@id": "https://www.pixtar.ae/#website"
+      },
+      "about": {
+        "@id": "https://www.pixtar.ae/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://www.pixtar.ae/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.pixtar.ae/#logo"
+      },
+      "breadcrumb": {
+        "@id": "https://www.pixtar.ae/#breadcrumb"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.pixtar.ae/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.pixtar.ae/"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.pixtar.ae/#services",
+      "name": "Digital Branding & Design Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://www.pixtar.ae/services/branding#service",
+            "name": "Branding & Rebranding",
+            "url": "https://www.pixtar.ae/services/branding"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://www.pixtar.ae/services/graphics#service",
+            "name": "Graphic Design",
+            "url": "https://www.pixtar.ae/services/graphics"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://www.pixtar.ae/services/website-development#service",
+            "name": "Custom Website Development",
+            "url": "https://www.pixtar.ae/services/website-development"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://www.pixtar.ae/services/ecommerce-web-development#service",
+            "name": "Ecommerce Development",
+            "url": "https://www.pixtar.ae/services/ecommerce-web-development"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://www.pixtar.ae/services/website-development#webapps",
+            "name": "Web Applications",
+            "url": "https://www.pixtar.ae/services/website-development"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-R65OYMUD.js"><link rel="modulepreload" href="chunk-GYPAVGKQ.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-MF43QLAB.js"><link rel="modulepreload" href="chunk-ESFAUWSY.js"><link rel="modulepreload" href="chunk-TXLMYR4V.js"><link rel="modulepreload" href="chunk-PPRZ6DKZ.js"><link rel="modulepreload" href="chunk-ED3LKO6M.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-XLQM4CQM.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-GYPAVGKQ.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-MF43QLAB.js"><link rel="modulepreload" href="chunk-ESFAUWSY.js"><link rel="modulepreload" href="chunk-TXLMYR4V.js"><link rel="modulepreload" href="chunk-PPRZ6DKZ.js"><link rel="modulepreload" href="chunk-ED3LKO6M.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-VDKA33HX.js" type="module"></script></body>
 
 </html>

@@ -495,6 +495,6 @@ export default `<!doctype html>
 
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-GYPAVGKQ.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-MF43QLAB.js"><link rel="modulepreload" href="chunk-ESFAUWSY.js"><link rel="modulepreload" href="chunk-TXLMYR4V.js"><link rel="modulepreload" href="chunk-PPRZ6DKZ.js"><link rel="modulepreload" href="chunk-ED3LKO6M.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-VDKA33HX.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-GYPAVGKQ.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-MF43QLAB.js"><link rel="modulepreload" href="chunk-ESFAUWSY.js"><link rel="modulepreload" href="chunk-TXLMYR4V.js"><link rel="modulepreload" href="chunk-PPRZ6DKZ.js"><link rel="modulepreload" href="chunk-ED3LKO6M.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-CMI5SZE7.js" type="module"></script></body>
 
 </html>`;

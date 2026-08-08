@@ -36,6 +36,11 @@
 			"TEXT5": "Design is only part of what we do. We partner with you to solve problems, meet challenges, and grow together — always with 100% transparency and trust."
 		}
 	},
+	"VIDEO":{
+		"VIDEO_CONTENT":{
+			"TITLE": "Play Showreel"
+		}
+	},
 	"BUTTON": {
 		"READ_MORE": "Read More",
 		"LETS_BEGIN": "Let's Begin",

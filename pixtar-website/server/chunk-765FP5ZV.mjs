@@ -1,0 +1,3 @@
+import './polyfills.server.mjs';
+import{E as d,O as o,Y as l,_ as s,c,f as a,ha as b,hc as i}from"./chunk-2RNHJEPB.mjs";function q(t){t||(t=o(s));let r=new c(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(d(r))}function R(t,r){let e=r?.injector??o(l),n=new a(1),v=b(()=>{let u;try{u=t()}catch(f){i(()=>n.error(f));return}i(()=>n.next(u))},{injector:e,manualCleanup:!0});return e.get(s).onDestroy(()=>{v.destroy(),n.complete()}),n.asObservable()}export{q as a,R as b};
+//# sourceMappingURL=chunk-765FP5ZV.mjs.map

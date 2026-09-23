@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-reusable/obvious-question/obvious-question.component.scss"],
+  "sourcesContent": [".obvious-quote {\n\tposition: relative;\n\tpadding-inline-start: 20px;\n\n\t&::after {\n\t\tcontent: '';\n\t\tposition: absolute;\n\t\tinset-inline-start: 0;\n\t\ttop: 50%;\n\t\ttransform: translateY(-50%);\n\t\twidth: 2px;\n\t\theight: 80%;\n\t\tbackground: #c98261;\n\t}\n}\n"],
+  "mappings": "AAAA,CAAA,cACC,SAAA,SACA,qBAAA,KAEA,CAJD,aAIC,OACC,QAAA,GACA,SAAA,SACA,mBAAA,EACA,IAAA,IACA,UAAA,WAAA,MACA,MAAA,IACA,OAAA,IACA,WAAA",
+  "names": []
+}

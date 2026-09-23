@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/environments/environment.staging.ts"],
+  "sourcesContent": ["export const environment = {\n  production: true,\n  baseUrl: 'https://pixtar.dnddevtest.co',\n  url: 'https://pixtar.dnddevtest.co',\n  calendlyUrl: 'https://calendly.com/pixtar/explore',\n  wordpressApiUrl: 'https://www.pixtar.ae/blog/wp-json/wp/v2',\n  wordpressBlogUrl: 'https://www.pixtar.ae/blog',\n};\n"],
+  "mappings": ";AAAO,IAAMA,EAAc,CACzBC,WAAY,GACZC,QAAS,+BACTC,IAAK,+BACLC,YAAa,sCACbC,gBAAiB,2CACjBC,iBAAkB",
+  "names": ["environment", "production", "baseUrl", "url", "calendlyUrl", "wordpressApiUrl", "wordpressBlogUrl"]
+}

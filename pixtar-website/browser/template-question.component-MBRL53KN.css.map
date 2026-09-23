@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-reusable/template-question/template-question.component.scss"],
+  "sourcesContent": [".template-question {\n\twidth: 100%;\n\n\t.template-question-left {\n\t\tdisplay: flex;\n\t\tflex-direction: column;\n\t\talign-items: flex-start;\n\t}\n\n\t.template-question-desc {\n\t\t&:not(:last-child) {\n\t\t\tmargin-bottom: 24px;\n\t\t}\n\t}\n\n\t@media (max-width: 991px) {\n\t\t.template-question-right {\n\t\t\tmargin-top: 2rem;\n\t\t}\n\t}\n}\n"],
+  "mappings": "AAAA,CAAA,kBACC,MAAA,KAEA,CAHD,kBAGC,CAAA,uBACC,QAAA,KACA,eAAA,OACA,YAAA,WAIA,CAVF,kBAUE,CAAA,sBAAA,KAAA,aACC,cAAA,KAIF,OAAA,UAAA,OACC,CAhBF,kBAgBE,CAAA,wBACC,WAAA",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-reusable/situations/situations.component.scss"],
+  "sourcesContent": [".situations {\n\t.number {\n\t\tflex: 0 0 60px;\n\t\twidth: 60px;\n\t\tmin-width: 60px;\n\n\t\tfont-size: 100px;\n\t\tline-height: 1;\n\t\t@media screen and (max-width: 991px) {\n\t\t\tfont-size: 70px;\n\t\t}\n\t}\n}\n"],
+  "mappings": "AACC,CAAA,WAAA,CAAA,OACC,KAAA,EAAA,EAAA,KACA,MAAA,KACA,UAAA,KAEA,UAAA,MACA,YAAA,EACA,OAAA,YAAA,UAAA,OAPD,CAAA,WAAA,CAAA,OAQE,UAAA",
+  "names": []
+}

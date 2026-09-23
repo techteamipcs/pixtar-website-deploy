@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-comp/footer3/footer3.component.scss"],
+  "sourcesContent": [".footer {\n\tbackground-color: #1a1a1a;\n}\n.logo1 {\n\tfilter: invert(1);\n}\nli a {\n\tcolor: #fff;\n\ttext-decoration: none;\n\n\t&:hover,\n\t&:focus {\n\t\tcolor: #de9b7a;\n\t}\n}\n\na {\n\tcolor: #6e6e73;\n\ttransition: all 0.3s ease-in-out;\n}\n\na.active-link {\n\tcolor: #de9b7a !important;\n}"],
+  "mappings": "AAAA,CAAA,OACC,iBAAA,QAED,CAAA,MACC,OAAA,OAAA,GAED,GAAA,EACC,MAAA,KACA,gBAAA,KAEA,GAAA,CAAA,OAAA,GAAA,CAAA,OAEC,MAAA,QAIF,EACC,MAAA,QACA,WAAA,IAAA,IAAA,YAGD,CAAA,CAAA,YACC,MAAA",
+  "names": []
+}

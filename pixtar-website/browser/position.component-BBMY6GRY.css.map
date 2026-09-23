@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-comp/position/position.component.scss"],
+  "sourcesContent": [".para-width {\n\twidth: 92%;\n\t@media (max-width: 1536px) {\n\t\twidth: 96%;\n\t}\n\t@media (max-width: 1440px) {\n\t\twidth: 83%;\n\t}\n\t@media (max-width: 1366px) {\n\t\twidth: 88%;\n\t}\n\t@media (max-width: 1300px) {\n\t\twidth: 92%;\n\t}\n\t@media (max-width: 1280px) {\n\t\twidth: 93%;\n\t}\n\t@media (max-width: 1199px) {\n\t\twidth: 100%;\n\t}\n}\n"],
+  "mappings": "AAAA,CAAA,WACC,MAAA,IACA,OAAA,UAAA,QAFD,CAAA,WAGE,MAAA,KAED,OAAA,UAAA,QALD,CAAA,WAME,MAAA,KAED,OAAA,UAAA,QARD,CAAA,WASE,MAAA,KAED,OAAA,UAAA,QAXD,CAAA,WAYE,MAAA,KAED,OAAA,UAAA,QAdD,CAAA,WAeE,MAAA,KAED,OAAA,UAAA,QAjBD,CAAA,WAkBE,MAAA",
+  "names": []
+}

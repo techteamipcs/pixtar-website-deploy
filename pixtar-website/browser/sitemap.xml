@@ -1,10 +1,13 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <!--  Homepage  -->
 <url>
 <loc>https://www.pixtar.ae</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.00</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae"/>
 </url>
 <!--  Core Pages  -->
 <url>
@@ -12,18 +15,27 @@
 <lastmod>2026-07-15</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/contact</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/contact"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/contact"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/contact"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/projects</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.85</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/projects"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/projects"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/projects"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/blog</loc>
@@ -36,6 +48,9 @@
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.85</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/about"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/about"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/about"/>
 </url>
 <!--  Service Pages  -->
 <url>
@@ -43,24 +58,36 @@
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/branding"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/branding"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/branding"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/services/ecommerce-web-development</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/ecommerce-web-development"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/ecommerce-web-development"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/ecommerce-web-development"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/services/graphics</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/graphics"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/graphics"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/graphics"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/services/website-development</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/website-development"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-development"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-development"/>
 </url>
 <!--  Legal Pages  -->
 <url>
@@ -68,12 +95,18 @@
 <lastmod>2026-07-15</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.50</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/privacy-policy"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/privacy-policy"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/privacy-policy"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/terms-and-conditions</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.50</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/terms-and-conditions"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/terms-and-conditions"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/terms-and-conditions"/>
 </url>
 <!--  Arabic Pages  -->
 <url>
@@ -81,65 +114,98 @@
 <lastmod>2026-07-15</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.00</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/services</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/contact</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/contact"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/contact"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/contact"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/projects</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.85</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/projects"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/projects"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/projects"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/about</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.85</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/about"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/about"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/about"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/services/branding</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/branding"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/branding"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/branding"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/services/ecommerce-web-development</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/ecommerce-web-development"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/ecommerce-web-development"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/ecommerce-web-development"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/services/graphics</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/graphics"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/graphics"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/graphics"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/services/website-development</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/website-development"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-development"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-development"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/privacy-policy</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.50</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/privacy-policy"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/privacy-policy"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/privacy-policy"/>
 </url>
 <url>
 <loc>https://www.pixtar.ae/ar/terms-and-conditions</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.50</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/terms-and-conditions"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/terms-and-conditions"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/terms-and-conditions"/>
 </url>
 </urlset>

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-reusable/choose-section/choose-section.component.scss"],
+  "sourcesContent": [".choosesection {\n\t.choose-section {\n\t\t.box {\n\t\t\t.p1 {\n\t\t\t\tmargin-bottom: 20px !important;\n\t\t\t}\n\n\t\t\timg {\n\t\t\t\theight: 100%;\n\t\t\t}\n\t\t}\n\t}\n}\n"],
+  "mappings": "AAGG,CAAA,cAAA,CAAA,eAAA,CAAA,IAAA,CAAA,GACC,cAAA,eAGD,CAJA,cAIA,CAJA,eAIA,CAJA,IAIA,IACC,OAAA",
+  "names": []
+}

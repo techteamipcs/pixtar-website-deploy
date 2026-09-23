@@ -9,12 +9,12 @@ export default `<!doctype html>
 
 	<!-- SEO -->
 	<meta name="description" content="Welcome to Pixtar, creative web design agency in Dubai. We specialize in Brand strategy, Web development and tailored solutions.">
-	<meta name="google-site-name" content="Pixtar UAE">
+	<meta name="google-site-name" content="Pixtar">
 	<link rel="canonical" href="https://www.pixtar.ae/">
 
 	<!-- OG Tags -->
-	<meta property="og:site_name" content="Pixtar UAE">
-	<meta property="og:title" content="Pixtar UAE">
+	<meta property="og:site_name" content="Pixtar">
+	<meta property="og:title" content="Pixtar">
 	<meta property="og:description" content="Premium branding and website design in Dubai-UAE for industry leaders seeking exceptional designs as premium as their brand.">
 	<meta property="og:image:secure_url" content="https://www.pixtar.ae/favicon/pixtar1200x630.png">
 	<meta property="og:type" content="website">
@@ -22,7 +22,7 @@ export default `<!doctype html>
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:url" content="https://www.pixtar.ae/">
-	<meta name="apple-mobile-web-app-title" content="Pixtar UAE">
+	<meta name="apple-mobile-web-app-title" content="Pixtar">
 
 	<!-- Favicon -->
 	<link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
@@ -264,7 +264,7 @@ export default `<!doctype html>
 		});
 	</script>
 	<!-- End Google Tag Manager -->
-<style>@font-face{font-family:lufga-light;src:url(/fonts/lufgaLight.woff2) format("woff2");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:lufga-regular;src:url(/fonts/lufgaRegular.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:lufga-medium;src:url(/fonts/lufgaMedium.woff2) format("woff2");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:lufga-semibold;src:url(/fonts/lufgaSemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:lufga-bold;src:url(/fonts/lufgaBold.woff2) format("woff2");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extralight.ttf) format("truetype");font-weight:200;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-light.ttf) format("truetype");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-regular.ttf) format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-medium.ttf) format("truetype");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-bold.ttf) format("truetype");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extrabold.ttf) format("truetype");font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-black.ttf) format("truetype");font-weight:900;font-style:normal;font-display:swap}:root{--app-font-body:lufga-regular, sans-serif;--app-font-light:Montserrat, sans-serif;--app-font-medium:Montserrat, sans-serif;--app-font-semibold:Montserrat, sans-serif;--app-font-bold:Montserrat, sans-serif;--app-font-banner-arabic:Tajawal, sans-serif;--app-font-arabic:Beiruti, sans-serif;--app-font-regular:Montserrat, sans-serif;--app-font-lufgalight:lufga-light, sans-serif;--app-font-lufgaregular:lufga-regular, sans-serif;--app-font-lufgamedium:lufga-medium, sans-serif;--app-font-lufgasemibold:lufga-semibold, sans-serif;--app-font-lufgabold:lufga-bold, sans-serif}body{overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-tap-highlight-color:transparent;scroll-behavior:smooth;text-rendering:optimizeSpeed;font-family:var(--app-font-body);font-size:16px}html,body{overflow-y:auto}html{overflow-y:scroll}body{margin:0}</style><link rel="stylesheet" href="styles-QGXWO36J.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-QGXWO36J.css"></noscript></head>
+<style>@font-face{font-family:lufga-light;src:url(/fonts/lufgaLight.woff2) format("woff2");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:lufga-regular;src:url(/fonts/lufgaRegular.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:lufga-medium;src:url(/fonts/lufgaMedium.woff2) format("woff2");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:lufga-semibold;src:url(/fonts/lufgaSemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:lufga-bold;src:url(/fonts/lufgaBold.woff2) format("woff2");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extralight.ttf) format("truetype");font-weight:200;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-light.ttf) format("truetype");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-regular.ttf) format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-medium.ttf) format("truetype");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-bold.ttf) format("truetype");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extrabold.ttf) format("truetype");font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-black.ttf) format("truetype");font-weight:900;font-style:normal;font-display:swap}:root{--app-font-body:lufga-regular, sans-serif;--app-font-banner-arabic:Tajawal, sans-serif;--app-font-arabic:Beiruti, sans-serif;--app-font-lufgalight:lufga-light, sans-serif;--app-font-lufgaregular:lufga-regular, sans-serif;--app-font-lufgamedium:lufga-medium, sans-serif;--app-font-lufgasemibold:lufga-semibold, sans-serif;--app-font-lufgabold:lufga-bold, sans-serif}body{overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-tap-highlight-color:transparent;text-rendering:optimizeSpeed;font-family:var(--app-font-body);font-size:16px}html,body{overflow-y:auto}html{overflow-y:scroll}body{margin:0}</style><link rel="stylesheet" href="styles-2YDSOGZZ.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-2YDSOGZZ.css"></noscript></head>
 
 <body ngcm="">
 	<!-- Google Tag Manager (noscript) -->
@@ -461,6 +461,6 @@ export default `<!doctype html>
 
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-BFV35IZC.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-IRMCMOYR.js"><link rel="modulepreload" href="chunk-ARUQDUD7.js"><link rel="modulepreload" href="chunk-UVOJV3TF.js"><link rel="modulepreload" href="chunk-HDYQKKFD.js"><link rel="modulepreload" href="chunk-H2UDQ7T3.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-6LHBKDAM.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-VQ2YFEW6.js"><link rel="modulepreload" href="chunk-RIYDEALR.js"><link rel="modulepreload" href="chunk-6K76DXQB.js"><link rel="modulepreload" href="chunk-B3GS37M3.js"><link rel="modulepreload" href="chunk-TMU64JNE.js"><link rel="modulepreload" href="chunk-PBIHY4L3.js"><link rel="modulepreload" href="chunk-FCQEBEVV.js"><link rel="modulepreload" href="chunk-JBU2YWUN.js"><link rel="modulepreload" href="chunk-VZBGOO6O.js"><script src="main-JWJWOL2E.js" type="module"></script></body>
 
 </html>`;

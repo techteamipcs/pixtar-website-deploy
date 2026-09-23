@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/golden-ratio/golden-ratio.component.scss"],
+  "sourcesContent": [".diagram-image {\n\twidth: auto;\n\theight: 100%;\n\tmax-width: 100%;\n\tobject-fit: contain;\n\tdisplay: block;\n}\n\n\n.gratio{\nbackground: rgba(249, 248, 246, 1);\n\n}\n.gap20{\n    gap: 140px;\n\tflex-direction: row;\n\talign-items: stretch;\n\n\t> .flex-1 {\n\t\tflex: 1 1 0;\n\t\tmin-width: 0;\n\t}\n\n\t@media screen and (max-width:991px){\n\t\tgap: 30px;\n\t\tflex-direction: column;\n\t}\n}"],
+  "mappings": "AAAA,CAAA,cACC,MAAA,KACA,OAAA,KACA,UAAA,KACA,WAAA,QACA,QAAA,MAID,CAAA,OACA,WAAA,QAGA,CAAA,MACI,IAAA,MACH,eAAA,IACA,YAAA,QAEA,CALD,KAKC,CAAA,CAAA,OACC,KAAA,EAAA,EAAA,EACA,UAAA,EAGD,OAAA,YAAA,UAAA,OAVD,CAAA,MAWE,IAAA,KACA,eAAA",
+  "names": []
+}

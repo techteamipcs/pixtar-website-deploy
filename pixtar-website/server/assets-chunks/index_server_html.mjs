@@ -9,12 +9,12 @@ export default `<!doctype html>
 
 	<!-- SEO -->
 	<meta name="description" content="Welcome to Pixtar, creative web design agency in Dubai. We specialize in Brand strategy, Web development and tailored solutions."/>
-	<meta name="google-site-name" content="Pixtar UAE">
+	<meta name="google-site-name" content="Pixtar">
 	<link rel="canonical" href="https://www.pixtar.ae/"/>
 
 	<!-- OG Tags -->
-	<meta property="og:site_name" content="Pixtar UAE"/>
-	<meta property="og:title" content="Pixtar UAE"/>
+	<meta property="og:site_name" content="Pixtar"/>
+	<meta property="og:title" content="Pixtar"/>
 	<meta property="og:description" content="Premium branding and website design in Dubai-UAE for industry leaders seeking exceptional designs as premium as their brand."/>
 	<meta property="og:image:secure_url" content="https://www.pixtar.ae/favicon/pixtar1200x630.png"/>
 	<meta property="og:type" content="website"/>
@@ -22,7 +22,7 @@ export default `<!doctype html>
 	<meta property="og:image:width" content="1200"/>
 	<meta property="og:image:height" content="630"/>
 	<meta property="og:url" content="https://www.pixtar.ae/"/>
-	<meta name="apple-mobile-web-app-title" content="Pixtar UAE">
+	<meta name="apple-mobile-web-app-title" content="Pixtar">
 
 	<!-- Favicon -->
 	<link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
@@ -265,7 +265,7 @@ export default `<!doctype html>
 		});
 	</script>
 	<!-- End Google Tag Manager -->
-<link rel="stylesheet" href="styles-QGXWO36J.css"></head>
+<link rel="stylesheet" href="styles-2YDSOGZZ.css"></head>
 
 <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script>
@@ -464,6 +464,6 @@ export default `<!doctype html>
 
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-BFV35IZC.js"><link rel="modulepreload" href="chunk-EMXMDSUE.js"><link rel="modulepreload" href="chunk-IRMCMOYR.js"><link rel="modulepreload" href="chunk-ARUQDUD7.js"><link rel="modulepreload" href="chunk-UVOJV3TF.js"><link rel="modulepreload" href="chunk-HDYQKKFD.js"><link rel="modulepreload" href="chunk-H2UDQ7T3.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-6LHBKDAM.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-VQ2YFEW6.js"><link rel="modulepreload" href="chunk-RIYDEALR.js"><link rel="modulepreload" href="chunk-6K76DXQB.js"><link rel="modulepreload" href="chunk-B3GS37M3.js"><link rel="modulepreload" href="chunk-TMU64JNE.js"><link rel="modulepreload" href="chunk-PBIHY4L3.js"><link rel="modulepreload" href="chunk-FCQEBEVV.js"><link rel="modulepreload" href="chunk-JBU2YWUN.js"><link rel="modulepreload" href="chunk-VZBGOO6O.js"><script src="main-JWJWOL2E.js" type="module"></script></body>
 
 </html>`;

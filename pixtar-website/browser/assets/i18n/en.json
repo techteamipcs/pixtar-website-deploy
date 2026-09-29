@@ -298,7 +298,8 @@
 		"BADGE": "SHOWCASE WORK",
 		"TITLE1": "Recent ",
 		"TITLE2": "websites we made live.",
-		"VIEW_ALL": "View all work"
+		"VIEW_ALL": "View all work",
+		"VIEW_PROJECT": "View Project"
 	},
 	"PACKAGES": {
 		"SLOTS_AVAILABLE": "Slots available",
@@ -1629,33 +1630,33 @@
 		"BRANDING": {
 			"BADGE": "How It Works",
 			"TITLE1": "Five stages.",
-			"TITLE2": "Twenty one days.",
+			"TITLE2": "Twenty-one days.",
 			"SUBTITLE": "21 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "Discover",
-					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"TITLE": "DISCOVER",
+					"DESCRIPTION": "We interview you, study your market, and find the gap you can own.",
 					"DURATION": "2 days"
 				},
 				"TWO": {
-					"TITLE": "Define",
-					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-					"DURATION": "2 days"
+					"TITLE": "DEFINE",
+					"DESCRIPTION": "Positioning, story, and the strategic direction everything follows.",
+					"DURATION": "3 days"
 				},
 				"THREE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "DESIGN",
+					"DESCRIPTION": "Concepts built on the golden ratio grid. You see three, we refine one.",
+					"DURATION": "8 days"
 				},
 				"FOUR": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "REFINE",
+					"DESCRIPTION": "Revisions, applications, and every asset your business needs.",
+					"DURATION": "5 days"
 				},
 				"FIVE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "DELIVER",
+					"DESCRIPTION": "Guidelines, source files, and a handover session with your team.",
+					"DURATION": "3 days"
 				}
 			},
 			"AFTERLAUNCH": {
@@ -1669,153 +1670,148 @@
 		"WEBSITE": {
 			"BADGE": "How It Works",
 			"TITLE1": "Five stages.",
-			"TITLE2": "Twenty one days.",
-			"SUBTITLE": "21 days, start to handover.",
+			"TITLE2": "Twenty seven days.",
+			"SUBTITLE": "27 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "Discover",
-					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
-					"DURATION": "2 days"
+					"TITLE": "DISCOVER",
+					"DESCRIPTION": "Your goals, your buyer, your competitors. What the site has to achieve.",
+					"DURATION": "3 days"
 				},
 				"TWO": {
-					"TITLE": "Define",
-					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-					"DURATION": "2 days"
+					"TITLE": "STRUCTURE",
+					"DESCRIPTION": "Sitemap, page hierarchy, and the route a visitor takes to the enquiry.",
+					"DURATION": "4 days"
 				},
 				"THREE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "DESIGN",
+					"DESCRIPTION": "Every page designed on the golden ratio grid. Desktop and mobile.",
+					"DURATION": "7 days"
 				},
 				"FOUR": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "BUILD",
+					"DESCRIPTION": "Clean code, tested across browsers and devices. Speed measured, not assumed.",
+					"DURATION": "10 days"
 				},
 				"FIVE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "LAUNCH",
+					"DESCRIPTION": "Migration, testing, handover and CMS training for your team.",
+					"DURATION": "3 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
 				"TITLE": "We don't disappear at handover.",
-				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION1": "Every site we build comes with a maintenance plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
 				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
-				"CTA": "Explore Brand Guardian"
+				"CTA": "Explore Website Maintenance"
 			}
 		},
 		"ECOMMERCE": {
 			"BADGE": "How It Works",
-			"TITLE1": "Five stages.",
-			"TITLE2": "Twenty one days.",
-			"SUBTITLE": "21 days, start to handover.",
+			"TITLE1": "Six stages.",
+			"TITLE2": "Forty two days.",
+			"SUBTITLE": "42 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "Discover",
-					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
-					"DURATION": "2 days"
+					"TITLE": "DISCOVER",
+					"DESCRIPTION": "Your catalogue, your margins, your customer. What the store has to achieve commercially.",
+					"DURATION": "4 days"
 				},
 				"TWO": {
-					"TITLE": "Define",
-					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-					"DURATION": "2 days"
+					"TITLE": "STRUCTURE",
+					"DESCRIPTION": "Category architecture, product data model, and the route from landing to checkout.",
+					"DURATION": "5 days"
 				},
 				"THREE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "DESIGN",
+					"DESCRIPTION": "Storefront designed on the golden ratio grid. Every template, desktop and mobile.",
+					"DURATION": "10 days"
 				},
 				"FOUR": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "BUILD",
+					"DESCRIPTION": "Development, payment gateway configuration, integrations, and data migration.",
+					"DURATION": "15 days"
 				},
 				"FIVE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "TEST",
+					"DESCRIPTION": "Every payment method, every shipping rule, every device. Real transactions before launch.",
+					"DURATION": "5 days"
+				},
+				"SIX": {
+					"TITLE": "LAUNCH",
+					"DESCRIPTION": "Go live, monitoring, and training so your team can run it without us.",
+					"DURATION": "3 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "We don't disappear at handover.",
-				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
-				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
-				"CTA": "Explore Brand Guardian"
+				"TITLE": "An ecommerce store is never finished.",
+				"DESCRIPTION1": "An ecommerce store is never finished. Products change, gateways update, plugins break, and traffic spikes at the worst moment. Every store we build comes with a maintenance plan covering backups, security, uptime monitoring, payment gateway checks and checkout testing.",
+				"DESCRIPTION2": "Two of our longest running client relationships are ecommerce retainers. That is not an accident. Stores that are looked after keep selling. From AED 900 a month.",
+				"CTA": "Explore Website Maintenance"
 			}
 		},
 		"GRAPHICS": {
 			"BADGE": "How It Works",
-			"TITLE1": "Five stages.",
-			"TITLE2": "Twenty one days.",
-			"SUBTITLE": "21 days, start to handover.",
+			"TITLE1": "Simple to run.",
+			"TITLE2": "",
+			"SUBTITLE": "",
 			"LIST": {
 				"ONE": {
-					"TITLE": "Discover",
-					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
-					"DURATION": "2 days"
+					"TITLE": "YOU REQUEST",
+					"DESCRIPTION": "Send requests whenever you need them, through email or a shared board. No forms, no approvals, no waiting for a slot.",
+					"DURATION": ""
 				},
 				"TWO": {
-					"TITLE": "Define",
-					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-					"DURATION": "2 days"
+					"TITLE": "WE QUEUE",
+					"DESCRIPTION": "Requests are worked in order. You can reprioritise anything at any time.",
+					"DURATION": ""
 				},
 				"THREE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "WE DELIVER",
+					"DESCRIPTION": "Two to three working days for most requests. Same day for small changes on Growth and Partner plans.",
+					"DURATION": ""
 				},
 				"FOUR": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
-				},
-				"FIVE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "YOU REVIEW",
+					"DESCRIPTION": "Two rounds of revisions on everything, included.",
+					"DURATION": ""
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "We don't disappear at handover.",
-				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
-				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
-				"CTA": "Explore Brand Guardian"
+				"TITLE": "An ecommerce store is never finished.",
+				"DESCRIPTION1": "An ecommerce store is never finished. Products change, gateways update, plugins break, and traffic spikes at the worst moment. Every store we build comes with a maintenance plan covering backups, security, uptime monitoring, payment gateway checks and checkout testing.",
+				"DESCRIPTION2": "Two of our longest running client relationships are ecommerce retainers. That is not an accident. Stores that are looked after keep selling. From AED 900 a month.",
+				"CTA": "Explore Website Maintenance"
 			}
 		},
 		"MAINTENANCE": {
 			"BADGE": "How It Works",
-			"TITLE1": "Five stages.",
-			"TITLE2": "Twenty one days.",
-			"SUBTITLE": "21 days, start to handover.",
+			"TITLE1": "Simple to run.",
+			"TITLE2": "",
+			"SUBTITLE": "",
 			"LIST": {
 				"ONE": {
-					"TITLE": "Discover",
-					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
-					"DURATION": "2 days"
+					"TITLE": "WE AUDIT",
+					"DESCRIPTION": "Before anything starts, we check what state the site is in and tell you what needs fixing first.",
+					"DURATION": ""
 				},
 				"TWO": {
-					"TITLE": "Define",
-					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-					"DURATION": "2 days"
+					"TITLE": "WE TAKE OVER",
+					"DESCRIPTION": "Backups, monitoring and security set up in the first week. You do not need to do anything.",
+					"DURATION": ""
 				},
 				"THREE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "YOU REQUEST",
+					"DESCRIPTION": "Send changes by email or WhatsApp. No ticketing system unless you want one.",
+					"DURATION": ""
 				},
 				"FOUR": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
-				},
-				"FIVE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "YOU GET A REPORT",
+					"DESCRIPTION": "Monthly. Uptime, updates applied, issues found, work completed.",
+					"DURATION": ""
 				}
 			},
 			"AFTERLAUNCH": {
@@ -1828,34 +1824,39 @@
 		},
 		"APPLICATION": {
 			"BADGE": "How It Works",
-			"TITLE1": "Five stages.",
-			"TITLE2": "Twenty one days.",
-			"SUBTITLE": "21 days, start to handover.",
+			"TITLE1": "Six stages.",
+			"TITLE2": "",
+			"SUBTITLE": "",
 			"LIST": {
 				"ONE": {
-					"TITLE": "Discover",
-					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
-					"DURATION": "2 days"
+					"TITLE": "DISCOVER",
+					"DESCRIPTION": "How your business actually works today, including the parts nobody has written down.",
+					"DURATION": "1 week"
 				},
 				"TWO": {
-					"TITLE": "Define",
-					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-					"DURATION": "2 days"
+					"TITLE": "SPECIFY",
+					"DESCRIPTION": "What the platform does, who uses it, and what it will not do. Signed off before anyone writes code.",
+					"DURATION": "2 weeks"
 				},
 				"THREE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "DESIGN",
+					"DESCRIPTION": "Every screen designed and reviewed. Changes here cost nothing. Changes later cost weeks.",
+					"DURATION": "2 weeks"
 				},
 				"FOUR": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "BUILD",
+					"DESCRIPTION": "Development in two week cycles. You see working software every fortnight, not at the end.",
+					"DURATION": "6 to 16 weeks"
 				},
 				"FIVE": {
-					"TITLE": "Design",
-					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-					"DURATION": "6 days"
+					"TITLE": "TEST",
+					"DESCRIPTION": "Your team uses it with real data before launch. Everything they break, we fix.",
+					"DURATION": "2 weeks"
+				},
+				"SIX": {
+					"TITLE": "LAUNCH",
+					"DESCRIPTION": "Migration, training and handover, with us watching the first two weeks of live use.",
+					"DURATION": "1 week"
 				}
 			},
 			"AFTERLAUNCH": {
@@ -1973,7 +1974,7 @@
 		"MOSTCLIENTS": "Most Clients",
 		"WHATS_INCLUDED": "What's included",
 		"GET_STARTED": "Get Started",
-		"BOOK_CALL": "Or Book A Call",
+		"BOOK_CALL": "Or Book a Call",
 		"BOOK_CALL_MODAL_TITLE": "Book a Call",
 		"BOOK_CALL_MODAL_SUBTITLE": "Share your details and we'll get back to you to schedule a call.",
 		"MESSAGE": "If You're Not Proud To Put This In Front Of Your Best Client, We Keep Working Until You Are.",

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/new-features/new-comp/discovery/discovery.component.scss"],
-  "sourcesContent": [".discovery-btn {\n\tdisplay: inline-flex;\n\talign-items: center;\n\tjustify-content: center;\n\ttext-decoration: none;\n\twhite-space: nowrap;\n\tborder: 1px solid transparent;\n\ttransition:\n\t\tbackground-color 0.3s ease,\n\t\tcolor 0.3s ease,\n\t\tborder-color 0.3s ease,\n\t\ttransform 0.3s ease;\n}\n\n.discovery-btn-primary {\n\tbackground-color: #c98261;\n\tborder-color: #c98261;\n\tcolor: #fff;\n\n\t&:hover {\n\t\tbackground-color: #b06f4f;\n\t\tborder-color: #b06f4f;\n\t\tcolor: #fff;\n\t\ttransform: translateY(-2px);\n\t}\n}\n\n.discovery-btn-outline {\n\tbackground-color: transparent;\n\tborder-color: #1d1d1f;\n\tcolor: #1d1d1f;\n\n\t&:hover {\n\t\tbackground-color: #1d1d1f;\n\t\tcolor: #fff;\n\t\ttransform: translateY(-2px);\n\t}\n}\n\nsection{\n\t\tbackground: rgba(249, 248, 246, 1);\n}"],
-  "mappings": "AAAA,CAAA,cACC,QAAA,YACA,YAAA,OACA,gBAAA,OACA,gBAAA,KACA,YAAA,OACA,OAAA,IAAA,MAAA,YACA,WACC,iBAAA,IAAA,IAAA,CAAA,MAAA,IAAA,IAAA,CAAA,aAAA,IAAA,IAAA,CAAA,UAAA,IAAA,KAMF,CAAA,sBACC,iBAAA,QACA,aAAA,QACA,MAAA,KAEA,CALD,qBAKC,OACC,iBAAA,QACA,aAAA,QACA,MAAA,KACA,UAAA,WAAA,MAIF,CAAA,sBACC,iBAAA,YACA,aAAA,QACA,MAAA,QAEA,CALD,qBAKC,OACC,iBAAA,QACA,MAAA,KACA,UAAA,WAAA,MAIF,QACE,WAAA",
-  "names": []
-}

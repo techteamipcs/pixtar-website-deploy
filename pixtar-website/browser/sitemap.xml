@@ -89,6 +89,234 @@
 <xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-development"/>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-development"/>
 </url>
+<url>
+<loc>https://www.pixtar.ae/services/website-application</loc>
+<lastmod>2026-10-28</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/website-application"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-application"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-application"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/services/website-maintenance</loc>
+<lastmod>2026-10-28</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/website-maintenance"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-maintenance"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-maintenance"/>
+</url>
+<!--  Case Study Pages  -->
+<url>
+<loc>https://www.pixtar.ae/project-details/dnour</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/dnour"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/dnour"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/dnour"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/detail-master</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/detail-master"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/detail-master"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/detail-master"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/spacexfitness</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/spacexfitness"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/spacexfitness"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/spacexfitness"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/miniaar</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/miniaar"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/miniaar"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/miniaar"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/vendetta</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/vendetta"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/vendetta"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/vendetta"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/autokoorosh</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/autokoorosh"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/autokoorosh"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/autokoorosh"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/aetrio</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/aetrio"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/aetrio"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/aetrio"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/business-angel</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/business-angel"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/business-angel"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/business-angel"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/crystal-cargo</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/crystal-cargo"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/crystal-cargo"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/crystal-cargo"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/fractal-metrics</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/fractal-metrics"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/fractal-metrics"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/fractal-metrics"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/j-avenue</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/j-avenue"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/j-avenue"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/j-avenue"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/pakhi</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/pakhi"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/pakhi"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/pakhi"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/tablon</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/tablon"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/tablon"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/tablon"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/mysa</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/mysa"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/mysa"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/mysa"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/urban</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/urban"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/urban"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/urban"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/eyeplus</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/eyeplus"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/eyeplus"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/eyeplus"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/arovan</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/arovan"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/arovan"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/arovan"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/beyou</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/beyou"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/beyou"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/beyou"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/dr-minnie</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/dr-minnie"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/dr-minnie"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/dr-minnie"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/epictravel</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/epictravel"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/epictravel"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/epictravel"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/ghostrental</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/ghostrental"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/ghostrental"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/ghostrental"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/phdesignme</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/phdesignme"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/phdesignme"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/phdesignme"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/project-details/techniya</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/techniya"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/techniya"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/techniya"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/process</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/process"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/process"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/process"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/compare</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/compare"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/compare"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/compare"/>
+</url>
 <!--  Legal Pages  -->
 <url>
 <loc>https://www.pixtar.ae/privacy-policy</loc>
@@ -191,6 +419,24 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-development"/>
 </url>
 <url>
+<loc>https://www.pixtar.ae/ar/services/website-application</loc>
+<lastmod>2026-10-28</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/website-application"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-application"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-application"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/services/website-maintenance</loc>
+<lastmod>2026-10-28</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.90</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/services/website-maintenance"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/services/website-maintenance"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/services/website-maintenance"/>
+</url>
+<url>
 <loc>https://www.pixtar.ae/ar/privacy-policy</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>yearly</changefreq>
@@ -207,5 +453,215 @@
 <xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/terms-and-conditions"/>
 <xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/terms-and-conditions"/>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/terms-and-conditions"/>
+</url>
+<!--  Arabic Case Study Pages  -->
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/dnour</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/dnour"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/dnour"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/dnour"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/detail-master</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/detail-master"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/detail-master"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/detail-master"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/spacexfitness</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/spacexfitness"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/spacexfitness"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/spacexfitness"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/miniaar</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/miniaar"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/miniaar"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/miniaar"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/vendetta</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/vendetta"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/vendetta"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/vendetta"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/autokoorosh</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/autokoorosh"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/autokoorosh"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/autokoorosh"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/aetrio</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/aetrio"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/aetrio"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/aetrio"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/business-angel</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/business-angel"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/business-angel"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/business-angel"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/crystal-cargo</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/crystal-cargo"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/crystal-cargo"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/crystal-cargo"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/fractal-metrics</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/fractal-metrics"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/fractal-metrics"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/fractal-metrics"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/j-avenue</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/j-avenue"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/j-avenue"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/j-avenue"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/pakhi</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/pakhi"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/pakhi"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/pakhi"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/tablon</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/tablon"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/tablon"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/tablon"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/mysa</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/mysa"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/mysa"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/mysa"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/urban</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/urban"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/urban"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/urban"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/eyeplus</loc>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/eyeplus"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/eyeplus"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/eyeplus"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/arovan</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/arovan"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/arovan"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/arovan"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/beyou</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/beyou"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/beyou"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/beyou"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/dr-minnie</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/dr-minnie"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/dr-minnie"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/dr-minnie"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/epictravel</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/epictravel"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/epictravel"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/epictravel"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/ghostrental</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/ghostrental"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/ghostrental"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/ghostrental"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/phdesignme</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/phdesignme"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/phdesignme"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/phdesignme"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/project-details/techniya</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/project-details/techniya"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/project-details/techniya"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/project-details/techniya"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/process</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/process"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/process"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/process"/>
+</url>
+<url>
+<loc>https://www.pixtar.ae/ar/compare</loc>
+<lastmod>2026-11-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+<xhtml:link rel="alternate" hreflang="en" href="https://www.pixtar.ae/compare"/>
+<xhtml:link rel="alternate" hreflang="ar" href="https://www.pixtar.ae/ar/compare"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixtar.ae/compare"/>
 </url>
 </urlset>

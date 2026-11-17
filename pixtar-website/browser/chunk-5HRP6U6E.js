@@ -1,0 +1,1 @@
+var t={production:!0,baseUrl:"https://www.pixtar.ae",url:"https://www.pixtar.ae",calendlyUrl:"https://calendly.com/pixtar/explore",wordpressApiUrl:"https://www.pixtar.ae/blog/wp-json/wp/v2",wordpressBlogUrl:"https://www.pixtar.ae/blog"};export{t as a};

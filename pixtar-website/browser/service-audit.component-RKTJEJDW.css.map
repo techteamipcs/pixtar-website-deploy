@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/new-features/new-reusable/service-audit/service-audit.component.scss"],
-  "sourcesContent": [".brand-audit-section {\n\tdisplay: flex;\n\t\tbackground: rgba(249, 248, 246, 1);\n\n\talign-items: center;\n\tpadding: 215px 0;\n\t@media (max-width: 768px) {\n\t\tpadding: 105px 0;\n\t}\n}\n\n"],
-  "mappings": "AAAA,CAAA,oBACC,QAAA,KACC,WAAA,QAED,YAAA,OAJD,QAKC,MAAA,EACA,OAAA,UAAA,OAND,CAAA,oBAAA,QAOE,MAAA",
-  "names": []
-}

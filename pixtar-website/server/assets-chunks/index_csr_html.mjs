@@ -21,6 +21,9 @@ export default `<!doctype html>
 	<meta property="og:image:type" content="image/png">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
+	<meta property="og:image:alt" content="Pixtar - Branding and Web Development Agency in Dubai">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:locale:alternate" content="ar_AE">
 	<meta property="og:url" content="https://www.pixtar.ae/">
 	<meta name="apple-mobile-web-app-title" content="Pixtar">
 
@@ -53,7 +56,9 @@ export default `<!doctype html>
 	<noscript>
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 	</noscript>
-	<link id="app-arabic-font-stylesheet" rel="stylesheet" media="not all" data-href="https://fonts.googleapis.com/css2?family=Beiruti:wght@200;300;400;500;600;700;800;900&amp;display=swap">
+	<!-- Almarai subset (only the "ع" glyph) so the language toggle renders correctly on the English site -->
+	<style>@font-face{font-family:'Almarai';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/l/font?kit=tsstApxBaigK_hnnc1-XpKAP&skey=dad28ec30cc9d460&v=v19) format('woff2');unicode-range:U+639;}@font-face{font-family:'Almarai';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/l/font?kit=tssoApxBaigK_hnnS-aghn2EpH5O&skey=8131a52a93cdf1ce&v=v19) format('woff2');unicode-range:U+639;}</style>
+	<link id="app-arabic-font-stylesheet" rel="stylesheet" media="not all" data-href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&amp;family=Playpen+Sans+Arabic:wght@400;700&amp;display=swap">
 
 	<!-- ✅ Bootstrap — managed by Angular language state -->
 	<link id="app-bootstrap-stylesheet" rel="stylesheet" data-ltr-href="/bootstrap/bootstrap.min.css" data-rtl-href="/bootstrap/bootstrap.rtl.min.css">
@@ -174,7 +179,7 @@ export default `<!doctype html>
 		}
 
 		html[lang='ar'] body {
-			font-family: 'Beiruti', 'Tajawal', 'Montserrat', 'Lufga', -apple-system, sans-serif;
+			font-family: 'Almarai', 'Montserrat', 'Lufga', -apple-system, sans-serif;
 		}
 
 		/* ✅ Reserve banner space before Angular loads */
@@ -264,7 +269,7 @@ export default `<!doctype html>
 		});
 	</script>
 	<!-- End Google Tag Manager -->
-<style>@font-face{font-family:lufga-light;src:url(/fonts/lufgaLight.woff2) format("woff2");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:lufga-regular;src:url(/fonts/lufgaRegular.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:lufga-medium;src:url(/fonts/lufgaMedium.woff2) format("woff2");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:lufga-semibold;src:url(/fonts/lufgaSemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:lufga-bold;src:url(/fonts/lufgaBold.woff2) format("woff2");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extralight.ttf) format("truetype");font-weight:200;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-light.ttf) format("truetype");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-regular.ttf) format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-medium.ttf) format("truetype");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-bold.ttf) format("truetype");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-extrabold.ttf) format("truetype");font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:Tajawal;src:url(/fonts/tajawal/tajawal-black.ttf) format("truetype");font-weight:900;font-style:normal;font-display:swap}:root{--app-font-body:lufga-regular, sans-serif;--app-font-banner-arabic:Tajawal, sans-serif;--app-font-arabic:Beiruti, sans-serif;--app-font-lufgalight:lufga-light, sans-serif;--app-font-lufgaregular:lufga-regular, sans-serif;--app-font-lufgamedium:lufga-medium, sans-serif;--app-font-lufgasemibold:lufga-semibold, sans-serif;--app-font-lufgabold:lufga-bold, sans-serif}body{overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-tap-highlight-color:transparent;text-rendering:optimizeSpeed;font-family:var(--app-font-body);font-size:16px}html,body{overflow-y:auto}html{overflow-y:scroll}body{margin:0}</style><link rel="stylesheet" href="styles-32SIVFSH.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-32SIVFSH.css"></noscript></head>
+<style>@font-face{font-family:lufga-light;src:url(/fonts/lufgaLight.woff2) format("woff2");font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:lufga-regular;src:url(/fonts/lufgaRegular.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:lufga-medium;src:url(/fonts/lufgaMedium.woff2) format("woff2");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:lufga-semibold;src:url(/fonts/lufgaSemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:lufga-bold;src:url(/fonts/lufgaBold.woff2) format("woff2");font-weight:700;font-style:normal;font-display:swap}:root{--app-font-body:lufga-regular, sans-serif;--app-font-banner-arabic:Almarai, sans-serif;--app-font-arabic:Almarai, sans-serif;--app-font-script-arabic:Playpen Sans Arabic, Almarai, sans-serif;--app-font-lufgalight:lufga-light, sans-serif;--app-font-lufgaregular:lufga-regular, sans-serif;--app-font-lufgamedium:lufga-medium, sans-serif;--app-font-lufgasemibold:lufga-semibold, sans-serif;--app-font-lufgabold:lufga-bold, sans-serif}body{overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-tap-highlight-color:transparent;text-rendering:optimizeSpeed;font-family:var(--app-font-body);font-size:16px}html,body{overflow-y:auto}html{overflow-y:scroll}body{margin:0}</style><link rel="stylesheet" href="styles-ZFC7BEOH.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-ZFC7BEOH.css"></noscript></head>
 
 <body ngcm="">
 	<!-- Google Tag Manager (noscript) -->
@@ -272,7 +277,7 @@ export default `<!doctype html>
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKRMXMC6" height="0" width="0" style="display:none;visibility:hidden">
 		</iframe>
 	</noscript>
-	<script type="application/ld+json">
+	<script id="static-site-schema" type="application/ld+json">
 		{
   "@context": "https://schema.org",
   "@graph": [
@@ -281,6 +286,12 @@ export default `<!doctype html>
       "@id": "https://www.pixtar.ae/#organization",
       "name": "Pixtar",
       "legalName": "Pixtar Branding Services LLC",
+      "alternateName": [
+				"Pixtar",
+        "Pixtar Dubai",
+				"Pixtar Branding Agency",
+        "Pixtar Branding Services"
+      ],
       "url": "https://www.pixtar.ae/",
       "logo": {
         "@type": "ImageObject",
@@ -301,7 +312,10 @@ export default `<!doctype html>
       "sameAs": [
         "https://www.instagram.com/pixtar.ae/",
         "https://www.facebook.com/people/pixtarae/100086439813548/",
-        "https://www.linkedin.com/company/pixtar-ae/"
+        "https://www.linkedin.com/company/pixtar-ae/",
+        "https://clutch.co/profile/pixtar",
+        "https://www.youtube.com/@Pixtar_ae",
+        "https://www.google.com/maps/place/Pixtar+Branding+Services+LLC/@25.1072952,55.1959177,17z/data=!3m2!4b1!5s0x3e5f6b93d88c1971:0x12228b49ab7b7460!4m16!1m9!4m8!1m0!1m6!1m2!1s0x3e5f43c95212b757:0x11b2ed84c9fcecf6!2sPixtar+Branding+Services+LLC,+ZNA,+Al+Barsha+Business+Centre+-+Office%23+Z36,+5th+Floor,+Espada+Business+Center+Rasis+Developers+-+Al+Barsha+First+-+Dubai+-+United+Arab+Emirates!2m2!1d55.1984926!2d25.1072952!3m5!1s0x3e5f43c95212b757:0x11b2ed84c9fcecf6!8m2!3d25.1072952!4d55.1984926!16s%2Fg%2F11t6g63231?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D"
       ],
       "knowsAbout": [
         "Brand Strategy",
@@ -332,16 +346,98 @@ export default `<!doctype html>
       "hasOfferCatalog": {
         "@id": "https://www.pixtar.ae/#services"
       },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+971527930781",
-        "email": "hey@pixtar.ae",
-        "contactType": "Sales",
-        "availableLanguage": [
-          "English"
-        ],
-        "areaServed": "AE"
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+971527930781",
+          "email": "hey@pixtar.ae",
+          "contactType": "Sales",
+          "availableLanguage": [
+            "English",
+            "Arabic"
+          ],
+          "areaServed": "AE",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+971527930781",
+          "email": "hey@pixtar.ae",
+          "contactType": "Customer Support",
+          "availableLanguage": [
+            "English",
+            "Arabic"
+          ],
+          "areaServed": "AE",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          "name": "WhatsApp Support"
+        }
+      ],
+      "founder": {
+        "@id": "https://www.pixtar.ae/#founder"
       }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.pixtar.ae/#founder",
+      "name": "Khwaja Banda Nawaz Betgeri",
+      "alternateName": ["KBN", "Khwaja Banda Nawaz", "Nawaz"],
+      "jobTitle": "CEO & Creative Director",
+      "description": "Khwaja Banda Nawaz (KBN) Betgeri is the Founder, CEO and Creative Director of Pixtar Brand Design Agency in Dubai. With 13+ years in branding, positioning and custom web design, he helps businesses build premium brands that attract higher-value clients, build trust and command better margins.",
+      "url": "https://www.pixtar.ae/about",
+			"email": "kbn@pixtar.ae",
+      "worksFor": {
+        "@id": "https://www.pixtar.ae/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/kbnab/",
+        "https://www.facebook.com/kbnoxfordian/",
+        "https://www.instagram.com/imkbn/"
+      ],
+      "knowsAbout": [
+        "Brand Strategy",
+        "Logo Design",
+        "Packaging Design",
+        "UI/UX Design",
+        "Responsive Web Design",
+        "WordPress Development",
+        "Shopify Development",
+        "Custom Website Design",
+        "Landing Page Optimization",
+        "Typography and Layout",
+        "Visual Branding",
+        "Brand Guidelines Development",
+        "Creative Direction",
+        "Project Management",
+        "Startup Branding",
+        "Conversion Optimization",
+        "Digital Design Strategy",
+        "Storytelling for Brands"
+      ]
     },
     {
       "@type": "ProfessionalService",
@@ -449,18 +545,26 @@ export default `<!doctype html>
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "@id": "https://www.pixtar.ae/services/website-development#webapps",
+            "@id": "https://www.pixtar.ae/services/website-application#service",
             "name": "Web Applications",
-            "url": "https://www.pixtar.ae/services/website-development"
+            "url": "https://www.pixtar.ae/services/website-application"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://www.pixtar.ae/services/website-maintenance#service",
+            "name": "Website Maintenance",
+            "url": "https://www.pixtar.ae/services/website-maintenance"
           }
         }
       ]
     }
   ]
 }
-
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-GV62Y5TM.js"><link rel="modulepreload" href="chunk-VXTMZLS5.js"><link rel="modulepreload" href="chunk-6K76DXQB.js"><link rel="modulepreload" href="chunk-M47PKIGP.js"><link rel="modulepreload" href="chunk-OG74Z56V.js"><link rel="modulepreload" href="chunk-KOIE22RZ.js"><link rel="modulepreload" href="chunk-ALHPZDFL.js"><link rel="modulepreload" href="chunk-B4LP47CN.js"><link rel="modulepreload" href="chunk-VZBGOO6O.js"><script src="main-FENPK3TO.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-GXNMQSCU.js"><link rel="modulepreload" href="chunk-VPD2DFUM.js"><link rel="modulepreload" href="chunk-U2XSBAOW.js"><link rel="modulepreload" href="chunk-QMMSPELP.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-BKNJDNUY.js"><link rel="modulepreload" href="chunk-3OO7AILN.js"><link rel="modulepreload" href="chunk-SX6NWNTD.js"><link rel="modulepreload" href="chunk-DZ7XWL5H.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-5XPDSZMD.js" type="module"></script></body>
 
 </html>`;

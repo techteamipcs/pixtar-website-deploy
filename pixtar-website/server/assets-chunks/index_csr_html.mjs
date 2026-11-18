@@ -565,6 +565,6 @@ export default `<!doctype html>
 }
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-GXNMQSCU.js"><link rel="modulepreload" href="chunk-VPD2DFUM.js"><link rel="modulepreload" href="chunk-U2XSBAOW.js"><link rel="modulepreload" href="chunk-QMMSPELP.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-BKNJDNUY.js"><link rel="modulepreload" href="chunk-3OO7AILN.js"><link rel="modulepreload" href="chunk-SX6NWNTD.js"><link rel="modulepreload" href="chunk-DZ7XWL5H.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-CL7M7TOP.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-GXNMQSCU.js"><link rel="modulepreload" href="chunk-VPD2DFUM.js"><link rel="modulepreload" href="chunk-U2XSBAOW.js"><link rel="modulepreload" href="chunk-QMMSPELP.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-BKNJDNUY.js"><link rel="modulepreload" href="chunk-3OO7AILN.js"><link rel="modulepreload" href="chunk-SX6NWNTD.js"><link rel="modulepreload" href="chunk-DZ7XWL5H.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-CWOKR73N.js" type="module"></script></body>
 
 </html>`;

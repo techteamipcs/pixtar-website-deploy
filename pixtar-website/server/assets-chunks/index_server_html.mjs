@@ -40,16 +40,16 @@ export default `<!doctype html>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 
-	<!-- ✅ Preload critical fonts -->
+	<!-- ✅ Preload the fonts the home page's first screen actually uses (measured via document.fonts:
+		regular, light, medium, semibold + barcelony). lufgaBold is NOT used on the home page, so it is
+		not preloaded; it loads on demand on the inner pages that use it. -->
 	<!-- <link rel="preload" href="https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2" as="font"
 		type="font/woff2" crossorigin> -->
 	<link rel="preload" href="/fonts/lufgaRegular.woff2" as="font" type="font/woff2" crossorigin="">
-	<link rel="preload" href="/fonts/lufgaBold.woff2" as="font" type="font/woff2" crossorigin="">
-
-	<!-- ✅ Non-critical fonts — load after -->
-	<link rel="preload" href="/fonts/barcelony.woff2" as="font" type="font/woff2" crossorigin="">
-	<link rel="preload" href="/fonts/lufgaLight.woff2" as="font" type="font/woff2" crossorigin="">
+	<link rel="preload" href="/fonts/lufgaMedium.woff2" as="font" type="font/woff2" crossorigin="">
 	<link rel="preload" href="/fonts/lufgaSemiBold.woff2" as="font" type="font/woff2" crossorigin="">
+	<link rel="preload" href="/fonts/lufgaLight.woff2" as="font" type="font/woff2" crossorigin="">
+	<link rel="preload" href="/fonts/barcelony.woff2" as="font" type="font/woff2" crossorigin="">
 
 	<!-- ✅ Google Fonts — non blocking -->
 	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&amp;display=swap" onload="this.rel='stylesheet'">
@@ -57,8 +57,8 @@ export default `<!doctype html>
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
 			rel="stylesheet">
 	</noscript>
-	<!-- Almarai subset (only the "ع" glyph) so the language toggle renders correctly on the English site -->
-	<style>@font-face{font-family:'Almarai';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/l/font?kit=tsstApxBaigK_hnnc1-XpKAP&skey=dad28ec30cc9d460&v=v19) format('woff2');unicode-range:U+639;}@font-face{font-family:'Almarai';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/l/font?kit=tssoApxBaigK_hnnS-aghn2EpH5O&skey=8131a52a93cdf1ce&v=v19) format('woff2');unicode-range:U+639;}</style>
+	<!-- The Almarai "ع" glyph (language toggle on the English site) is self-hosted: see the inline
+		@font-face below. It used to be a render-blocking Google Fonts stylesheet plus a chained gstatic request. -->
 	<link id="app-arabic-font-stylesheet" rel="stylesheet" media="not all" data-href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&amp;family=Playpen+Sans+Arabic:wght@400;700&amp;display=swap">
 
 	<!-- ✅ Bootstrap — managed by Angular language state -->
@@ -156,6 +156,25 @@ export default `<!doctype html>
 			font-weight: 600;
 			font-style: normal;
 			font-display: swap;
+		}
+
+		/* Self-hosted Almarai subset: only the "ع" glyph (U+0639) used by the language toggle. */
+		@font-face {
+			font-family: 'Almarai';
+			src: url('/fonts/almarai-ain-400.woff2') format('woff2');
+			font-weight: 400;
+			font-style: normal;
+			font-display: swap;
+			unicode-range: U+0639;
+		}
+
+		@font-face {
+			font-family: 'Almarai';
+			src: url('/fonts/almarai-ain-700.woff2') format('woff2');
+			font-weight: 700;
+			font-style: normal;
+			font-display: swap;
+			unicode-range: U+0639;
 		}
 
 		@font-face {
@@ -568,6 +587,6 @@ export default `<!doctype html>
 }
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-GXNMQSCU.js"><link rel="modulepreload" href="chunk-VPD2DFUM.js"><link rel="modulepreload" href="chunk-U2XSBAOW.js"><link rel="modulepreload" href="chunk-QMMSPELP.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-BKNJDNUY.js"><link rel="modulepreload" href="chunk-3OO7AILN.js"><link rel="modulepreload" href="chunk-SX6NWNTD.js"><link rel="modulepreload" href="chunk-DZ7XWL5H.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-2FDYV5HZ.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-GXNMQSCU.js"><link rel="modulepreload" href="chunk-SZRPJ7T4.js"><link rel="modulepreload" href="chunk-3Z3FW5M7.js"><link rel="modulepreload" href="chunk-QMMSPELP.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-BKNJDNUY.js"><link rel="modulepreload" href="chunk-3OO7AILN.js"><link rel="modulepreload" href="chunk-SX6NWNTD.js"><link rel="modulepreload" href="chunk-DZ7XWL5H.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-MGVWCA2N.js" type="module"></script></body>
 
 </html>`;

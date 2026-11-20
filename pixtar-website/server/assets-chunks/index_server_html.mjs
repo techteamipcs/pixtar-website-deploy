@@ -36,27 +36,18 @@ export default `<!doctype html>
 	<link rel="icon" href="/favicon/android-chrome-512x512.png" sizes="512x512">
 	<link rel="manifest" href="/favicon/site.webmanifest">
 
-	<!-- ✅ Preconnect -->
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+	<!-- The only Google Fonts requests are the Arabic fonts; the inline script below adds the preconnects only
+		when the page language is Arabic. -->
 
 	<!-- ✅ Preload the fonts the home page's first screen actually uses (measured via document.fonts:
 		regular, light, medium, semibold + barcelony). lufgaBold is NOT used on the home page, so it is
 		not preloaded; it loads on demand on the inner pages that use it. -->
-	<!-- <link rel="preload" href="https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2" as="font"
-		type="font/woff2" crossorigin> -->
 	<link rel="preload" href="/fonts/lufgaRegular.woff2" as="font" type="font/woff2" crossorigin="">
 	<link rel="preload" href="/fonts/lufgaMedium.woff2" as="font" type="font/woff2" crossorigin="">
 	<link rel="preload" href="/fonts/lufgaSemiBold.woff2" as="font" type="font/woff2" crossorigin="">
 	<link rel="preload" href="/fonts/lufgaLight.woff2" as="font" type="font/woff2" crossorigin="">
 	<link rel="preload" href="/fonts/barcelony.woff2" as="font" type="font/woff2" crossorigin="">
 
-	<!-- ✅ Google Fonts — non blocking -->
-	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&amp;display=swap" onload="this.rel='stylesheet'">
-	<noscript>
-		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
-			rel="stylesheet">
-	</noscript>
 	<!-- The Almarai "ع" glyph (language toggle on the English site) is self-hosted: see the inline
 		@font-face below. It used to be a render-blocking Google Fonts stylesheet plus a chained gstatic request. -->
 	<link id="app-arabic-font-stylesheet" rel="stylesheet" media="not all" data-href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&amp;family=Playpen+Sans+Arabic:wght@400;700&amp;display=swap">
@@ -98,6 +89,19 @@ export default `<!doctype html>
 
 			html.setAttribute('lang', lang);
 			html.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+
+			if (lang === 'ar') {
+				// The Arabic fonts are the only remaining Google Fonts requests: warm up both origins.
+				var gfPre = document.createElement('link');
+				gfPre.rel = 'preconnect';
+				gfPre.href = 'https://fonts.googleapis.com';
+				var gsPre = document.createElement('link');
+				gsPre.rel = 'preconnect';
+				gsPre.href = 'https://fonts.gstatic.com';
+				gsPre.crossOrigin = '';
+				document.head.appendChild(gfPre);
+				document.head.appendChild(gsPre);
+			}
 
 			if (lang === 'ar' && arabicFontsLink) {
 				var arabicFontsHref = arabicFontsLink.getAttribute('data-href');
@@ -194,12 +198,12 @@ export default `<!doctype html>
 
 		body {
 			margin: 0;
-			font-family: 'Montserrat', 'Lufga', -apple-system, sans-serif;
+			font-family: 'Lufga', -apple-system, sans-serif;
 			-webkit-font-smoothing: antialiased;
 		}
 
 		html[lang='ar'] body {
-			font-family: 'Almarai', 'Montserrat', 'Lufga', -apple-system, sans-serif;
+			font-family: 'Almarai', 'Lufga', -apple-system, sans-serif;
 		}
 
 		/* ✅ Reserve banner space before Angular loads */
@@ -587,6 +591,6 @@ export default `<!doctype html>
 }
 	</script>
 	<app-root></app-root>
-<link rel="modulepreload" href="chunk-LFHMS2D6.js"><link rel="modulepreload" href="chunk-MPZNSLDJ.js"><link rel="modulepreload" href="chunk-CT7LE35P.js"><link rel="modulepreload" href="chunk-2FVTNLPY.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-XGCFMK2X.js"><link rel="modulepreload" href="chunk-LXOWAZ2Q.js"><link rel="modulepreload" href="chunk-JHJCYWMK.js"><link rel="modulepreload" href="chunk-UMDLZDMN.js"><link rel="modulepreload" href="chunk-C6Q5SG76.js"><script src="main-5TG4MWOZ.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-LFHMS2D6.js"><link rel="modulepreload" href="chunk-MPZNSLDJ.js"><link rel="modulepreload" href="chunk-B3WOATIL.js"><link rel="modulepreload" href="chunk-ZK4N3ADC.js"><link rel="modulepreload" href="chunk-2FVTNLPY.js"><link rel="modulepreload" href="chunk-5HRP6U6E.js"><link rel="modulepreload" href="chunk-XGCFMK2X.js"><link rel="modulepreload" href="chunk-LXOWAZ2Q.js"><link rel="modulepreload" href="chunk-JHJCYWMK.js"><link rel="modulepreload" href="chunk-UMDLZDMN.js"><script src="main-IXTMADDL.js" type="module"></script></body>
 
 </html>`;
